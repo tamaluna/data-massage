@@ -1,0 +1,144 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutowiredDependenciesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssOptimizeSimilarPropertiesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssUnknownProperty" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="myCustomPropertiesEnabled" value="false" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="CssUnusedSymbolInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ELMethodSignatureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ELSpecValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ELValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Fix shebang" enabled="true" level="WARNING" enabled_by_default="true">/bin/sh#/bin/bash</inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="46">
+            <item index="0" class="java.lang.String" itemvalue="djconfig" />
+            <item index="1" class="java.lang.String" itemvalue="href" />
+            <item index="2" class="java.lang.String" itemvalue="dojotype" />
+            <item index="3" class="java.lang.String" itemvalue="closable" />
+            <item index="4" class="java.lang.String" itemvalue="target" />
+            <item index="5" class="java.lang.String" itemvalue="toggleable" />
+            <item index="6" class="java.lang.String" itemvalue="dragrestriction" />
+            <item index="7" class="java.lang.String" itemvalue="internalborder" />
+            <item index="8" class="java.lang.String" itemvalue="logourl" />
+            <item index="9" class="java.lang.String" itemvalue="greeting" />
+            <item index="10" class="java.lang.String" itemvalue="nbzones" />
+            <item index="11" class="java.lang.String" itemvalue="accepttypes" />
+            <item index="12" class="java.lang.String" itemvalue="column" />
+            <item index="13" class="java.lang.String" itemvalue="dolayout" />
+            <item index="14" class="java.lang.String" itemvalue="autofocus" />
+            <item index="15" class="java.lang.String" itemvalue="iconclass" />
+            <item index="16" class="java.lang.String" itemvalue="jsid" />
+            <item index="17" class="java.lang.String" itemvalue="copyonly" />
+            <item index="18" class="java.lang.String" itemvalue="selfaccept" />
+            <item index="19" class="java.lang.String" itemvalue="open" />
+            <item index="20" class="java.lang.String" itemvalue="data" />
+            <item index="21" class="java.lang.String" itemvalue="store" />
+            <item index="22" class="java.lang.String" itemvalue="searchattr" />
+            <item index="23" class="java.lang.String" itemvalue="selected" />
+            <item index="24" class="java.lang.String" itemvalue="row" />
+            <item index="25" class="java.lang.String" itemvalue="trim" />
+            <item index="26" class="java.lang.String" itemvalue="extraplugins" />
+            <item index="27" class="java.lang.String" itemvalue="tabindex" />
+            <item index="28" class="java.lang.String" itemvalue="labelfunc" />
+            <item index="29" class="java.lang.String" itemvalue="value" />
+            <item index="30" class="java.lang.String" itemvalue="displayedvalue" />
+            <item index="31" class="java.lang.String" itemvalue="constraints" />
+            <item index="32" class="java.lang.String" itemvalue="displayvalue" />
+            <item index="33" class="java.lang.String" itemvalue="dialogtype" />
+            <item index="34" class="java.lang.String" itemvalue="size" />
+            <item index="35" class="java.lang.String" itemvalue="connectid" />
+            <item index="36" class="java.lang.String" itemvalue="position" />
+            <item index="37" class="java.lang.String" itemvalue="invalidmessage" />
+            <item index="38" class="java.lang.String" itemvalue="promptmessage" />
+            <item index="39" class="java.lang.String" itemvalue="regexp" />
+            <item index="40" class="java.lang.String" itemvalue="required" />
+            <item index="41" class="java.lang.String" itemvalue="missingmessage" />
+            <item index="42" class="java.lang.String" itemvalue="execute" />
+            <item index="43" class="java.lang.String" itemvalue="oncancel" />
+            <item index="44" class="java.lang.String" itemvalue="chromebuffer" />
+            <item index="45" class="java.lang.String" itemvalue="preload" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSUnusedGlobalSymbols" enabled="true" level="INFO" enabled_by_default="true">
+      <option name="myReportUnusedProperties" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JavaDoc" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="" />
+    </inspection_tool>
+    <inspection_tool class="JdkProxiedBeanTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MVCPathVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhingDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RedundantImport" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SamePackageImport" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpringBeanAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanLookupMethodInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanNameConventionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringContextConfigurationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringIncorrectResourceTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringInjectionValueConsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringIntegrationModelErrorInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringIntegrationModelInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaConfigExternalBeansErrorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringMessageDispatcherWebXmlInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringReplacedMethodsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringRequiredAnnotationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringRequiredPropertyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringScopesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringSecurityElementsInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringSecurityFiltersConfiguredInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringTransactionalComponentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringWebServiceAnnotationsInconsistencyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringWebServicesConfigurationsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TaglibDomModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UnhandledExceptionInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessarilyQualifiedStaticallyImportedElement" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryFullyQualifiedName" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreJavadoc" value="false" />
+      <option name="ignoreInModuleStatements" value="true" />
+    </inspection_tool>
+    <inspection_tool class="UnresolvedMessageChannelWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
