@@ -239,8 +239,8 @@ public class DataMassageTest {
         writeCsvFile("C:/temp/odds-"+oddsFileSuffix, map);
     }
 
-    final String predictionDate = "2017-12-10";
-    final String dateSuffix =     "2017-12-10.csv";
+    final String predictionDate = "2017-12-12";
+    final String dateSuffix =     "2017-12-12.csv";
 
     @Test
     public void createFormattedInsiderOddsFile() throws Exception {
